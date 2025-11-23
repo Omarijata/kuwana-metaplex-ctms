@@ -9,7 +9,7 @@ Kuwana Protocol is building the necessary infrastructure for Real-World Asset (R
 - **Metaplex CORE RWA-NFTs** for franchise ownership
 - [cite_start]**New DeFi Primitive:** Immutably automated 50/40/10 revenue distribution to NFT holders and the DAO Treasury [cite: 585-587].
 - **Open-source smart contract templates** for any business to tokenize
-- **Unrivaled Access:** Strategic alignment to tokenize the revenue streams of the region that produces over 60% of the world's cocoa output.
+- **Unrivaled Access:** Strategic alignment with COCOBOD-authorized processors to tokenize the revenue streams of the region that produces over 60% of the world's cocoa output.
 
 ## 🏗️ Architecture & Scope
 
@@ -48,4 +48,4 @@ Location: Innovation Hub, Pretoria, South Africa
 
 ## 📄 License
 
-MIT License - See [LICENSE](LICENSE) file for details
+MIT License - See **LICENSE** file for details
