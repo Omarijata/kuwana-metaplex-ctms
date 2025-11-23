@@ -37,3 +37,15 @@ This phase is funded by the Metaplex DAO Grant.
 - **Wallet Integration:** Phantom, Solflare
 
 ## 📂 Repository Structure
+
+kuwana-metaplex-ctms/ ├── contracts/ # Metaplex CORE CTMS smart contracts (coming soon) ├── app/ # Frontend application (coming soon) └── docs/ # Documentation & tutorials (coming soon)
+
+## 📧 Contact
+
+**Daniel Tettey Addy**
+Email: tettey@kuwanaprotocol.com
+Location: Innovation Hub, Pretoria, South Africa
+
+## 📄 License
+
+MIT License - See [LICENSE](LICENSE) file for details
